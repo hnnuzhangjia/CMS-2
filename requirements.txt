@@ -1,0 +1,9 @@
+# SCD (Semantic Contrastive Decoding) - Dependencies
+# Python 3.8+
+
+# GPT-4o-mini NLI
+openai>=1.3.0
+
+# Core utilities (for optional extras)
+numpy>=1.24.0
+tqdm>=4.65.0
